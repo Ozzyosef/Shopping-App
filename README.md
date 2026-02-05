@@ -1,2 +1,1 @@
-Oz Yosef, ID: 209882398
-Chale Ferede, ID: 328950456
+Developed a shopping-cart app featuring a registration, login, and main-screen flow, using SharedPreferences for local storage, and a RecyclerView UI for a product catalog with cart quantity updates and item removal.
